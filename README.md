@@ -6,7 +6,7 @@ Instead of focusing only on visuals, I tried to combine UI/UX design with a simp
 
 # 🚀 DevFlow – Developer Productivity Dashboard
 
-🚀 **Live Demo:** https://69e7ddf1321ea500a0e7b093--serene-meerkat-b2cd01.netlify.app/
+🚀 **Live Demo:** https://69e7e11e0834140fe4f67bf1--serene-meerkat-b2cd01.netlify.app/
 
 This project started as an attempt...
 ---
